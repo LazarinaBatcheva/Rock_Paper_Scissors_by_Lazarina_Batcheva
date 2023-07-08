@@ -12,4 +12,5 @@ choose one of the following three options: "rock", "paper", or "scissors". The r
 The winner is the player whose choice beats the choice of his opponent. If both players choose the same option
 (e.g., "rock"), the game outcome is "draw".
 
-![rock-paper-scissors](Pictures\rock-paper-scissors1)
+![rock-paper-scissors1](https://github.com/LazarinaBatcheva/Rock_Paper_Scissors_by_Lazarina_Batcheva/assets/134694151/7bd17b0a-ade5-4e2f-ad1e-5205bd544222)
+
